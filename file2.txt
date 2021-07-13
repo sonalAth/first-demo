@@ -1,2 +1,0 @@
-devops
-performing experiment no 2 GIT
